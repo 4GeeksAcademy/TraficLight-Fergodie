@@ -1,12 +1,15 @@
-
-/* 
-
-    You can write your own styles here...
-    
-    
-    ...Or you can use the import command to include 
-    other sylesheets into your bunde as well, e.j:
-    
-    import 'relative/path/to/stylesheet.scss';
-
-*/
+.glow-yellow {
+    box-shadow: 6px -16px 150px 100px rgb(238, 234, 3);
+  }
+  
+  .glow-red {
+    box-shadow: 6px -16px 150px 100px rgb(210, 102, 14);
+  }
+  
+  .glow-green {
+    box-shadow: 6px -16px 150px 100px rgb(18, 180, 50);
+  }
+  
+  .glow-purple {
+    box-shadow: 6px -16px 150px 100px rgb(242, 91, 250);
+  }
